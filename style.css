@@ -37,7 +37,7 @@ body{
   cursor:cell;
 }
 
-.works{
+.works a{
   position:absolute;
   font-family: optima;
   color:white;
@@ -51,9 +51,9 @@ body{
   border:2px solid	#FFFFFF; */
   top:1vh;
   left:38vh;
-  text-decoration: none;
+  text-decoration:none;
 }
-.works:hover{
+.works:hover a{
   position:absolute;
   font-family: optima;
   color:white;

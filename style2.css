@@ -96,7 +96,7 @@ body{
   cursor:cell;
 }
 
-.home{
+.home a{
   position:absolute;
   font-family: optima;
   color:white;
@@ -110,8 +110,9 @@ body{
   border:2px solid	#FFFFFF; */
   top:3vh;
   left:160vh;
+  text-decoration: none;
 }
-.home:hover{
+.home:hover a{
   position:absolute;
   font-family: optima;
   color:white;
