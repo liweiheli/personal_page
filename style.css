@@ -51,6 +51,7 @@ body{
   border:2px solid	#FFFFFF; */
   top:1vh;
   left:38vh;
+  text-decoration: none;
 }
 .works:hover{
   position:absolute;
