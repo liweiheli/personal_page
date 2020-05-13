@@ -110,7 +110,7 @@ body{
   border:2px solid	#FFFFFF; */
   top:3vh;
   left:160vh;
-  text-decoration: none;
+  text-decoration:none;
 }
 .home:hover a{
   position:absolute;
